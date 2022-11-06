@@ -6,6 +6,7 @@
 - 🌱 Estudando atualmente:
   - Lua
   - Love2D
+  - Teste de qualidade
 - 📫 Você pode me contactar pelo email: machaulay@icloud.com
 - 😄 Pronomes: Ele/Dele
 
