@@ -4,9 +4,8 @@
 - Familiariado com a linguagem C# e a engine Unity3D.
 - Á procura de uma vaga na industria de jogos
 - 🌱 Estudando atualmente:
-  - Lua
-  - Love2D
   - Teste de qualidade
+  - Game Design
 - 📫 Você pode me contactar pelo email: machaulay@icloud.com
 - 😄 Pronomes: Ele/Dele
 
