@@ -1,4 +1,4 @@
-## Oie, eu sou o Machaulay
+## Oie, Me chamo Machaulay
 
 - 🎓 Formado em Jogos digitais.
 - Familiariado com a linguagem C# e a engine Unity3D.
